@@ -54,4 +54,4 @@ And after all, the model was uploaded to streamlit and is ready to use.
 
 
 
-## All of the steps and decision are based on results in iplpredict.ipynb
+## All of the steps and decision are based on results in iplproject.ipynb
